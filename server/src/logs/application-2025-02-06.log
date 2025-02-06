@@ -123,3 +123,7 @@
 2025-02-06 23:32:05 [INFO]: POST /api/otp/send
 2025-02-06 23:35:51 [INFO]: POST /api/auth/register
 2025-02-06 23:35:51 [INFO]: POST /api/otp/send
+2025-02-06 23:44:08 [INFO]: POST /api/auth/register
+2025-02-06 23:44:08 [INFO]: POST /api/otp/send
+2025-02-06 23:47:35 [INFO]: POST /api/otp/send
+2025-02-06 23:47:53 [INFO]: POST /api/otp/verify
