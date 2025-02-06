@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Projects\\PDF extractor\\server\\src\\logs\\.7f7d689b98e10affcd9a57d51f3a8bebe11d7463-audit.json",
+    "files": [
+        {
+            "date": 1738753684973,
+            "name": "D:\\Projects\\PDF extractor\\server\\src\\logs\\error-2025-02-05.log",
+            "hash": "a4b090aeddf62c130f8653efaeab97664e4e80e2f9be3c00126eb5eef8c104c7"
+        },
+        {
+            "date": 1738820997145,
+            "name": "D:\\Projects\\PDF extractor\\server\\src\\logs\\error-2025-02-06.log",
+            "hash": "249e83f02c84e835a6e6cb81e0dc7706d38d8a4f5f3474333dd7444eae833b61"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.highlight-first-letter::first-letter {
+  @apply text-red-500 font-bold text-3xl;
+}
+
+
+.hide-scrollbar {
+    scrollbar-width: none; 
+    -ms-overflow-style: none; 
+  }
+  
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none; 
+  }
+  
+  @keyframes grow {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
+  }
+  
+  .animated-number {
+    animation: grow 1s ease-in-out infinite;
+  }
+  
+
+
+  @media print {
+    body * {
+      visibility: hidden;
+    }
+  
+    .print-area,
+    .print-area * {
+      visibility: visible;
+    }
+  
+    .print-area {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+    }
+  }
+  

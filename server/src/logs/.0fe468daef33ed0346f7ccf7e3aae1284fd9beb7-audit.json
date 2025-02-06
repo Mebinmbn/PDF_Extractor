@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\safe copy\\Doctor Appointment - Updated\\server\\src\\logs\\.0fe468daef33ed0346f7ccf7e3aae1284fd9beb7-audit.json",
+    "files": [
+        {
+            "date": 1737289549218,
+            "name": "D:\\safe copy\\Doctor Appointment - Updated\\server\\src\\logs\\error-2025-01-19.log",
+            "hash": "61be99dc400b536ee7140e8926a9566075cc068eefddc439f601fb28d4458c61"
+        },
+        {
+            "date": 1737344983087,
+            "name": "D:\\safe copy\\Doctor Appointment - Updated\\server\\src\\logs\\error-2025-01-20.log",
+            "hash": "ee46dc8eb00c45f78392a54f49b41d70e711a6a0fe9fd6b1bf2bf46deb7fe27f"
+        },
+        {
+            "date": 1737431260073,
+            "name": "D:\\safe copy\\Doctor Appointment - Updated\\server\\src\\logs\\error-2025-01-21.log",
+            "hash": "a5bcf212f48be7bc8e62485c6f04591e0b93d712bec38f0c7015ea728ace4e0d"
+        },
+        {
+            "date": 1737520250573,
+            "name": "D:\\safe copy\\Doctor Appointment - Updated\\server\\src\\logs\\error-2025-01-22.log",
+            "hash": "5962051b5344f726e9e05be7807c0ca9366b9b710f72d2c60029cbf93eaa3aac"
+        },
+        {
+            "date": 1737695927768,
+            "name": "D:\\safe copy\\Doctor Appointment - Updated\\server\\src\\logs\\error-2025-01-24.log",
+            "hash": "925b225a2fb8399274c5ee056d92aaeca7b38ab2ccb9ce969151d1350ba73438"
+        }
+    ],
+    "hashType": "sha256"
+}
