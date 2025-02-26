@@ -48,7 +48,7 @@ function Home() {
 
   const { getRootProps, getInputProps } = useDropzone({
     onDrop,
-    accept: ".pdf",
+    // accept: ".pdf",
   });
 
   const handlePageSelection = (pageIndex: number) => {

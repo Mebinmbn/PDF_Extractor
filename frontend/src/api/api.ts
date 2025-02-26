@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:8080/api/",
+  baseURL: import.meta.env.VITE_SERVER,
   timeout: 5000,
   headers: {
     "Content-Type": "application/json",
@@ -35,7 +35,7 @@ api.interceptors.response.use(
       originalRequest._retry = true;
       try {
         const { data } = await axios.post(
-          "http://localhost:8080/api/token",
+          `${import.meta.env.VITE_SERVER}token`,
           {},
           { withCredentials: true }
         );

@@ -1,0 +1,4 @@
+2025-02-20 09:05:50 [INFO]: POST /api/auth/signin
+2025-02-20 09:06:46 [INFO]: POST /api/users/extract-pdf
+2025-02-20 09:06:54 [INFO]: GET /uploads/pdf/1740022606286-extracted.pdf
+2025-02-20 09:06:54 [INFO]: GET /favicon.ico

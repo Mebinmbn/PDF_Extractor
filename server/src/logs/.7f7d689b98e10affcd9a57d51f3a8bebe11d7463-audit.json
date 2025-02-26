@@ -6,14 +6,19 @@
     "auditLog": "D:\\Projects\\PDF extractor\\server\\src\\logs\\.7f7d689b98e10affcd9a57d51f3a8bebe11d7463-audit.json",
     "files": [
         {
-            "date": 1738753684973,
-            "name": "D:\\Projects\\PDF extractor\\server\\src\\logs\\error-2025-02-05.log",
-            "hash": "a4b090aeddf62c130f8653efaeab97664e4e80e2f9be3c00126eb5eef8c104c7"
+            "date": 1739981708471,
+            "name": "D:\\Projects\\PDF extractor\\server\\src\\logs\\error-2025-02-19.log",
+            "hash": "b965ffc7fd67ebcf9d5a3937bb57617c8e65a5b8589e73d83f275d2cd6717c90"
         },
         {
-            "date": 1738820997145,
-            "name": "D:\\Projects\\PDF extractor\\server\\src\\logs\\error-2025-02-06.log",
-            "hash": "249e83f02c84e835a6e6cb81e0dc7706d38d8a4f5f3474333dd7444eae833b61"
+            "date": 1740020944772,
+            "name": "D:\\Projects\\PDF extractor\\server\\src\\logs\\error-2025-02-20.log",
+            "hash": "7bf687a5281373b5b5a072aa3819d15bf43c8a3aea1a39a676118569ca8c7d36"
+        },
+        {
+            "date": 1740573590968,
+            "name": "D:\\Projects\\PDF extractor\\server\\src\\logs\\error-2025-02-26.log",
+            "hash": "f482c946ab90280d609cf838222f2f0444917fe9850140be5d86f679d053e9fa"
         }
     ],
     "hashType": "sha256"

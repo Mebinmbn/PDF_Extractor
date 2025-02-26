@@ -6,14 +6,19 @@
     "auditLog": "D:\\Projects\\PDF extractor\\server\\src\\logs\\.26b5aadac18373629103dc6d22991fb607af7f2b-audit.json",
     "files": [
         {
-            "date": 1738753684970,
-            "name": "D:\\Projects\\PDF extractor\\server\\src\\logs\\application-2025-02-05.log",
-            "hash": "4d74d49ff99bbea6a7e95417246fc2435621ae8d4c749fe52d253f10abdc4348"
+            "date": 1739981708462,
+            "name": "D:\\Projects\\PDF extractor\\server\\src\\logs\\application-2025-02-19.log",
+            "hash": "12437a62ed2582bba4e8790bdee75519bb6cc8465849d42dd91583676a63694e"
         },
         {
-            "date": 1738820997141,
-            "name": "D:\\Projects\\PDF extractor\\server\\src\\logs\\application-2025-02-06.log",
-            "hash": "4252afb02aa78e42255aa616c86d99b0485b8bad1dc9487ed36f76ac2d4ddab7"
+            "date": 1740020944769,
+            "name": "D:\\Projects\\PDF extractor\\server\\src\\logs\\application-2025-02-20.log",
+            "hash": "f58f42b8eebef0ee38fca23d81e8cf15212deb7fe8e0db0530d1a3edb830c3d2"
+        },
+        {
+            "date": 1740573590961,
+            "name": "D:\\Projects\\PDF extractor\\server\\src\\logs\\application-2025-02-26.log",
+            "hash": "ffff3000e0de29169d864ad630449ab4c85566d92013aff891afec588e220675"
         }
     ],
     "hashType": "sha256"

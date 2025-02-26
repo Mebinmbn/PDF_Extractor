@@ -1,0 +1,13 @@
+2025-02-19 21:45:51 [INFO]: POST /api/auth/signin
+2025-02-19 21:46:06 [INFO]: GET /api/users/userData/67a47f38b67f46e29fdf70cf
+2025-02-19 21:46:06 [INFO]: GET /api/users/userData/67a47f38b67f46e29fdf70cf
+2025-02-19 21:46:11 [INFO]: GET /api/users/pdfs/67a47f38b67f46e29fdf70cf?page=1&10
+2025-02-19 21:46:11 [INFO]: GET /api/users/pdfs/67a47f38b67f46e29fdf70cf?page=1&10
+2025-02-19 21:47:11 [INFO]: POST /api/users/extract-pdf
+2025-02-19 21:47:16 [INFO]: GET /uploads/pdf/1739981831476-extracted.pdf
+2025-02-19 21:47:17 [INFO]: GET /favicon.ico
+2025-02-19 21:49:03 [INFO]: GET /api/users/pdfs/67a47f38b67f46e29fdf70cf?page=1&10
+2025-02-19 21:49:03 [INFO]: GET /api/users/pdfs/67a47f38b67f46e29fdf70cf?page=1&10
+2025-02-19 21:49:52 [INFO]: POST /api/users/extract-pdf
+2025-02-19 21:51:11 [INFO]: GET /api/users/pdfs/67a47f38b67f46e29fdf70cf?page=1&10
+2025-02-19 21:51:11 [INFO]: GET /api/users/pdfs/67a47f38b67f46e29fdf70cf?page=1&10
